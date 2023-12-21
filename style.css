@@ -3,7 +3,7 @@
 	--darker: #1F2937;
 	--darkest: #111827;
 	--grey: #6B7280;
-	--pink: #47c147;
+	--pink:blue;
 	--purple: #bced61;
 	--light: #EEE;
 }
@@ -70,7 +70,6 @@ input, button {
 	-webkit-text-fill-color: transparent;
 	cursor: pointer;
 	transition: 0.4s;
-	border:white;
 }
 
 #new-task-submit:hover {
