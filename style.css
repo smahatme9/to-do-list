@@ -70,6 +70,7 @@ input, button {
 	-webkit-text-fill-color: transparent;
 	cursor: pointer;
 	transition: 0.4s;
+	border: #47c147 2px;
 }
 
 #new-task-submit:hover {
